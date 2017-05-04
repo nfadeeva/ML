@@ -1,2 +1,2 @@
-# ML
-Here will be some useful notebooks
+#
+Here will be some useful notebooks, cmds and scripts
